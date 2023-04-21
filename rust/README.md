@@ -9,4 +9,6 @@
 # RUN THE PROJECT
 
     1. Run the command
-        ``` rustc ./src/main.rs```
+        ```
+        rustc ./src/main.rs
+        ```
