@@ -5,11 +5,6 @@
 ## How to run a TS project
 
     1. Compile TS Code to JS Code
-        ```
-        // JS code will be printed to the dir directory
-        tsc ./index.ts
-        ```
+        `tsc ./index.ts`
     2. Run the JS code
-        ```
-        node  ./dir/index.js
-        ```
+        `node  ./dir/index.js`

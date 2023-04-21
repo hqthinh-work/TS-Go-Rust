@@ -5,6 +5,4 @@
 ## RUN THE PROEJCT
 
     1. Run the command
-        ```
-        go run <file.go>
-        ```
+        `go run <file.go>`
